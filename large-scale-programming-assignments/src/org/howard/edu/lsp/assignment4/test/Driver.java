@@ -51,7 +51,7 @@ public class Driver {
 		set2.clear()
 		System.out.println(“Set1 and set2 should not be equal.” + set1.equals(set2));
 		
-		//equals but the same set checks
+		//equals but are the same set checks
 		set1.clear()
 		set2.clear()
 		System.out.println(“Set1 and set2 should not be equal.” + set1.equals(set2));
