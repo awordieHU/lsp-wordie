@@ -6,10 +6,12 @@ public class Driver {
 	
 	public static void main(ArrayList ArrayList) {
 		
+		//setting up set1 
 		IntegerSet set1 = new IntegerSet();
 		set1.add(1);
 		set1.add(2);
 		set1.add(3);
+		set1.add(4;)
 
 		
 		// smallest and largest check for set 1
@@ -51,7 +53,7 @@ public class Driver {
 		set2.clear()
 		System.out.println(“Set1 and set2 should not be equal.” + set1.equals(set2));
 		
-		//equals but are the same set checks
+		//equals but the same set checks
 		set1.clear()
 		set2.clear()
 		System.out.println(“Set1 and set2 should not be equal.” + set1.equals(set2));

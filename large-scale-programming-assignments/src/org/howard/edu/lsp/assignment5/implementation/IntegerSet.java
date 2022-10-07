@@ -180,8 +180,7 @@ public class IntegerSet {
 		
 		iset.toString();
 	
-		};	// return String representation of your set
-	
+		};	
 	
 	
 
